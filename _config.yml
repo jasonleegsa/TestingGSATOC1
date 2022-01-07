@@ -12,10 +12,10 @@ title: FICAM Playbooks
 email: icam@gsa.gov
 description: Helping the U.S. Federal Government Enterprise design, procure, integrate, and operate Federal Enterprise Identity, Credential, and Access Management services.  .
 baseurl: ""
-repourl: "https://github.com/GSA/ficam-playbooks"
+repourl: "https://jasonleegsa.github.io/TestingGSATOC1"
 
 #for site map search
-url: https://playbooks.idmanagement.gov
+url: https://jasonleegsa.github.io/TestingGSATOC1
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
@@ -82,7 +82,6 @@ secondary_navigation:
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
 searchgov:
-
   # You should not change this.
   endpoint: https://search.usa.gov
 
